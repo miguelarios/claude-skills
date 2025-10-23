@@ -1,30 +1,31 @@
 # Claude Skills
 
-A curated collection of custom skills for [Claude Code](https://claude.com/claude-code), shared publicly to help the community extend Claude's capabilities.
+A curated collection of custom skills for [claude.ai](https://claude.ai), shared publicly to help the community extend Claude's capabilities.
 
 ## What are Claude Skills?
 
-Claude Skills are reusable, specialized capabilities that extend Claude Code's functionality. They provide domain-specific knowledge and workflows that can be invoked during your coding sessions to handle complex, multi-step tasks more effectively.
+Claude Skills are reusable, specialized capabilities that enhance Claude's functionality on claude.ai. They provide domain-specific knowledge and workflows that can be invoked during your conversations to handle complex, multi-step tasks more effectively.
 
 ## How to Use These Skills
 
 ### Installing a Skill
 
 1. Clone this repository or download individual skill files
-2. Copy the skill file(s) to your Claude Code skills directory:
-   - **macOS/Linux**: `~/.config/claude-code/skills/`
-   - **Windows**: `%APPDATA%\claude-code\skills\`
-3. Restart Claude Code or reload your configuration
+2. Go to [claude.ai](https://claude.ai) and navigate to your account settings
+3. Go to the "Skills" section
+4. Click "Add Skill" or "Import Skill"
+5. Upload or paste the skill content from this repository
+6. Save and enable the skill
 
 ### Using a Skill
 
-Once installed, you can invoke a skill in Claude Code by using the `@` symbol followed by the skill name:
+Once installed, you can invoke a skill in claude.ai by mentioning it in your conversation or selecting it from the skills menu:
 
 ```
-@skill-name [arguments]
+Use @skill-name to [accomplish task]
 ```
 
-For more information about skills, visit the [Claude Code Skills documentation](https://docs.claude.com/docs/claude-code/skills).
+For more information about skills, visit the [Claude Skills documentation](https://support.anthropic.com/en/articles/claude-ai-skills).
 
 ## Available Skills
 
@@ -59,9 +60,9 @@ When creating skills for this collection:
 
 ## Resources
 
-- [Claude Code Documentation](https://docs.claude.com/claude-code)
-- [Skills Documentation](https://docs.claude.com/docs/claude-code/skills)
-- [Claude Code GitHub](https://github.com/anthropics/claude-code)
+- [Claude.ai](https://claude.ai)
+- [Anthropic Support](https://support.anthropic.com)
+- [Claude Documentation](https://docs.anthropic.com)
 
 ## License
 
