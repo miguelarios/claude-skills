@@ -1,6 +1,6 @@
 # Claude Skills
 
-A curated collection of custom skills for [claude.ai](https://claude.ai), shared publicly to help the community extend Claude's capabilities.
+This is my personal collection of custom skills for [claude.ai](https://claude.ai), created for my own use but shared publicly in case others find it useful.
 
 ## What are Claude Skills?
 
@@ -45,13 +45,11 @@ Example format for listing skills:
 **Files**: List of key files included in the skill
 -->
 
-## Contributing
+## Note
 
-This is a personal collection, but suggestions and contributions are welcome! If you have ideas for improvements or find issues:
+This is a personal collection created primarily for my own workflow and needs. I'm sharing it publicly in case these skills are useful to others, but keep in mind they're tailored to my specific use cases. Feel free to use, fork, or adapt them as needed!
 
-1. Open an issue describing your suggestion or the problem
-2. For contributions, fork the repository and submit a pull request
-3. Ensure your skills are well-documented and follow best practices
+If you find issues or have suggestions, feel free to open an issue.
 
 ## Skill Development Guidelines
 
